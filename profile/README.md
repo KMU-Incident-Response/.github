@@ -2,7 +2,7 @@
 
 Willkommen auf dem GitHub Repository von KMU-Incident-Response.
 Alle arbeiten dieser GitHub Organisation sind das Produkt einer Bachelorarbeit an der OST von [Marco Martinez](https://github.com/marcom4rtinez) und [Severin Grimm](https://github.com/sevigrimm).
-Ziel dieser Repositories ist es, KMUs auf den Incident Response Prozess vorzubereiten und Security Best-Practices zu vermitteln.
+Ziel dieser Repositories ist es, KMUs auf den Incident Response Prozess vorzubereiten und Security Best-Practices zu vermitteln. Dabei wird wert darauf gelegt, Kosten für Software möglichst tief zu halten.
 
 Die Vorbereitung auf die Incident Response wird mit einem Incident Response Plan und dem einrichten von einem [SIEM System](https://en.wikipedia.org/wiki/Security_information_and_event_management) gemacht. Die Security Best-Practices behandeln verbreitete Themen, welche viele KMUs betreffen. 
 
