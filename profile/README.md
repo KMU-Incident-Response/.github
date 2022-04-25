@@ -1,5 +1,16 @@
 # KMU Incident Response
 
-Alle Guides können im Repository [KMU-Security-Best-Practices](https://github.com/KMU-Incident-Response/KMU-Security-Best-Practices) gefunden werden.
+Willkommen auf dem GitHub Repository von KMU-Incident-Response.
+Alle arbeiten dieser GitHub Organisation sind das Produkt einer Bachelorarbeit an der OST von [Marco Martinez](https://github.com/marcom4rtinez) und [Severin Grimm](https://github.com/sevigrimm).
+Ziel dieser Repositories ist es, KMUs auf den Incident Response Prozess vorzubereiten und Security Best-Practices zu vermitteln.
 
-Den Wazuh & Rule Installer kann im Repository [KMU-Basis-Logging](https://github.com/KMU-Incident-Response/KMU-Basis-Logging) gefunden werden.
+Die Vorbereitung auf die Incident Response wird mit einem Incident Response Plan und dem einrichten von einem [SIEM System](https://en.wikipedia.org/wiki/Security_information_and_event_management) gemacht. Die Security Best-Practices behandeln verbreitete Themen, welche viele KMUs betreffen. 
+
+### Einstiegspunkt
+Einstiegspunkt für KMUs ist das Repository [KMU-Security-Best-Practices](https://github.com/KMU-Incident-Response/KMU-Security-Best-Practices).
+
+### Übersicht Repositores
+- [KMU-Security-Best-Practices](https://github.com/KMU-Incident-Response/KMU-Security-Best-Practices): Dieses Repository beinhaltet alle Dokumente für die Installation des SIEM Systems, die Vorlagen für ein Incident Response Plan und die Security Best-Practices.
+- [KMU-Basis-Logging](https://github.com/KMU-Incident-Response/KMU-Basis-Logging): Dieses Repository beinhaltet alle Installationsdateien für das SIEM System.
+- [ossec-sysmon](https://github.com/KMU-Incident-Response/ossec-sysmon): Dieses Repository beinhaltet alle Regeln und Konfigurationen für das SIEM System.
+- [.github](https://github.com/KMU-Incident-Response/.github): Dieses Repository beinhaltet das Readme, dass du gerade liest.
