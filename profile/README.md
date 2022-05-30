@@ -1,5 +1,5 @@
 # KMU Incident Response
-![GitHub](https://img.shields.io/badge/empfohlene%20Zeit-8%20Stunden-brightgreen)
+![GitHub](https://img.shields.io/badge/empfohlene%20Zeit-16%20Stunden-brightgreen)
 
 Willkommen auf dem GitHub Repository von KMU-Incident-Response.
 Alle arbeiten dieser GitHub Organisation sind das Produkt einer Bachelorarbeit an der OST von [Marco Martinez](https://github.com/marcom4rtinez) und [Severin Grimm](https://github.com/sevigrimm).
